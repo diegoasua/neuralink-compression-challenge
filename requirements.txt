@@ -1,4 +1,3 @@
-torch
-torchaudio
-tqdm
+matplotlib
 numpy
+scipy
