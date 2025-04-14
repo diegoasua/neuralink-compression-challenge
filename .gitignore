@@ -1,0 +1,6 @@
+data
+*.zip
+.venv
+__MACOSX
+.venv
+.DS_Store
